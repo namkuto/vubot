@@ -1,2 +1,0 @@
-# vubot
-Hack blox fruit
